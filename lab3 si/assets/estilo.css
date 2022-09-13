@@ -1,0 +1,85 @@
+body{
+    background-color:rosybrown;
+}
+
+
+.Inicio{
+    border: 1px solid;
+    width: 100%;
+    padding: 1px;
+    text-align: center;
+    align-items: center;
+
+}
+
+
+h1{
+    text-align: center;
+}
+
+h2{
+    font-size: medium;
+}
+h4{
+    text-align: center;
+    font-size: 40px;
+}
+
+.parrafos{
+    text-align: center;
+    padding: 1cm 0cm 0cm;
+    
+}
+
+#almedio{
+    display: flex;
+}
+
+.imagen{
+    text-align: center;
+    width: 50%;
+}
+
+.imagen2{
+    width: 50%;
+    text-align: center;
+    
+}
+
+
+
+.mina{
+    text-align: center;
+    margin-top: 1cm;
+}
+
+.formulario{
+    margin-inline-start:40%;
+    border: 1px solid black;
+    border-width: 1px;
+}
+
+
+
+#formulario2{
+    margin: auto;
+    border: 1px solid;
+    border-color: black;
+}
+
+.boton{
+    margin: 0cm 1cm 0cm;
+}
+
+#tablita{
+    width: 100%;
+    border: solid 2px black;
+}
+
+#tablita .td1{
+    text-align: center;
+    border: 1px solid black;
+    border-color: black;
+    
+}
+
